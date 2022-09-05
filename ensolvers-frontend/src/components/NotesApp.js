@@ -146,8 +146,10 @@ const NotesApp = () => {
              </>
             :<>
                 <div className = "header text-center">
-                    <h3>Archived Notes</h3>
+                <h3 style={{display: "flex", margin: "35px"}}>Archived Notes</h3>
+                <div className='header-buttons'>
                     <button className = "btn btn-secondary mt-2" onClick = {() => setIsArchived(!isArchived)} >Unarchived</button>
+                </div>
                 </div>
                 <div className = "task-container">
                 {taskListArchived && getArchivedNotes()}

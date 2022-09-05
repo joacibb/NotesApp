@@ -26,8 +26,12 @@ const EditNotePopup = ({modal, toggle, updateTask, taskObj}) => {
     const handleAddCategory = (e) =>{
         e.preventDefault()
         const noteCategoryTemp = noteCategory
-        setCategoryList(categoryList.concat(noteCategoryTemp))
-        setNoteCategory('')
+        if(!categoryList.includes(noteCategoryTemp) && noteCategoryTemp !== ""){
+            setCategoryList(categoryList.concat(noteCategoryTemp))
+            setNoteCategory('')
+        } else{
+            alert("Repeated category. Please insert a new one");
+        }
     }
 
     const handleDeleteCategory = (index) => {
