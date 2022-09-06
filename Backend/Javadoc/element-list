@@ -1,0 +1,7 @@
+ar.com.noteschallenge
+ar.com.noteschallenge.controller
+ar.com.noteschallenge.DTO
+ar.com.noteschallenge.exception
+ar.com.noteschallenge.model
+ar.com.noteschallenge.repository
+ar.com.noteschallenge.service.impl

@@ -1,0 +1,15 @@
+/Users/joacib/Documents/Notes/Notes-APP/Backend/src/main/java/ar/com/noteschallenge/model/Category.java
+/Users/joacib/Documents/Notes/Notes-APP/Backend/src/main/java/ar/com/noteschallenge/exception/ObjectNotFoundException.java
+/Users/joacib/Documents/Notes/Notes-APP/Backend/src/main/java/ar/com/noteschallenge/DTO/NoteDTO.java
+/Users/joacib/Documents/Notes/Notes-APP/Backend/src/main/java/ar/com/noteschallenge/exception/ResourceNotFoundException.java
+/Users/joacib/Documents/Notes/Notes-APP/Backend/src/main/java/ar/com/noteschallenge/repository/NoteRepository.java
+/Users/joacib/Documents/Notes/Notes-APP/Backend/src/main/java/ar/com/noteschallenge/controller/NoteController.java
+/Users/joacib/Documents/Notes/Notes-APP/Backend/src/main/java/ar/com/noteschallenge/NotesChallengeApplication.java
+/Users/joacib/Documents/Notes/Notes-APP/Backend/src/main/java/ar/com/noteschallenge/model/Note.java
+/Users/joacib/Documents/Notes/Notes-APP/Backend/src/main/java/ar/com/noteschallenge/service/impl/CategoryService.java
+/Users/joacib/Documents/Notes/Notes-APP/Backend/src/main/java/ar/com/noteschallenge/controller/CategoryController.java
+/Users/joacib/Documents/Notes/Notes-APP/Backend/src/main/java/ar/com/noteschallenge/repository/CategoryRepository.java
+/Users/joacib/Documents/Notes/Notes-APP/Backend/src/main/java/ar/com/noteschallenge/service/impl/CategoryServiceImpl.java
+/Users/joacib/Documents/Notes/Notes-APP/Backend/src/main/java/ar/com/noteschallenge/service/impl/NoteServiceImpl.java
+/Users/joacib/Documents/Notes/Notes-APP/Backend/src/main/java/ar/com/noteschallenge/DTO/CategoryDTO.java
+/Users/joacib/Documents/Notes/Notes-APP/Backend/src/main/java/ar/com/noteschallenge/service/impl/NoteService.java
