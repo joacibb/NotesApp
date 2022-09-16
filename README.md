@@ -28,3 +28,9 @@
 -----------------------------------------------------------------
 npm start
 
+or 
+
+heroku APP
+
+https://notes-app-jc.herokuapp.com/
+
